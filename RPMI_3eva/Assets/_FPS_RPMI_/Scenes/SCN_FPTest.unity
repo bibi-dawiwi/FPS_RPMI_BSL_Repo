@@ -522,6 +522,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: PLayer
       objectReference: {fileID: 0}
+    - target: {fileID: 8356557334598231710, guid: 9c4a26d0da8170344ae9d27af6157bc1, type: 3}
+      propertyPath: sensitivity
+      value: 0.58
+      objectReference: {fileID: 0}
+    - target: {fileID: 8356557334598231710, guid: 9c4a26d0da8170344ae9d27af6157bc1, type: 3}
+      propertyPath: groundCheckRadious
+      value: 0.02
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
